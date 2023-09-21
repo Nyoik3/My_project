@@ -18,22 +18,9 @@ To use this calculator, follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone [repository_url]
-Navigate to the project directory:
+   git clone [https://github.com/Nyoik3/My_project.git]
+open html file to show in browser. 
 
-bash
-Copy code
-cd simple-calculator
-Compile the program (if necessary):
-
-bash
-Copy code
-[compile_command]
-Run the calculator:
-
-bash
-Copy code
-[run_command]
 Usage
 Once the calculator is running, you can perform calculations by entering expressions in the following format:
 
